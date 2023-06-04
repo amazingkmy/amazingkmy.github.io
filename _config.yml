@@ -1,15 +1,16 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://amazingkmy.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+title: 으메이징 KMY - 할껀 하(려고하)는 개발자                                   # site's title
+description: "A blog posts of amazingkmy"      # used by search engines
+#avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/amazingkmy_avatar.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: <code>자꾸_까먹다보니_만든_블로그</code>  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
