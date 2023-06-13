@@ -15,7 +15,7 @@ InstructGPT 학습은 3가지로 구분할 수 있습니다
 1. Supervised Fine-Tuning (SFT)
 2. Reward Model Training
 3. Reinforcement learning proximal policy optimization
-![instructGPT-learning-preview](assets/img/post_img/instructGPT-learning-preview.png)
+![instructGPT-learning-preview]({{"/assets/img/post_img/instructGPT-learning-preview.png"|relative_url}})
 여기에서 3번에 대한 내용이 조금 부실했던 것 같습니다
 아무래도 PPO에 대한 설명이 부족했기 때문이라고 생각합니다. 이 내용에 대해서는 추후에 정리가 필요합니다. (TRPO vs PPO)
 간단하게 표현하면 강화학습에 필요한 정책 알고리즘 중에 SOTA를 달성하고 있는 알고리즘이라고 보시면 되겠습니다.
